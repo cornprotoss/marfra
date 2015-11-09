@@ -28,7 +28,7 @@
 					<LABEL themeId="menuItemLabel" text="{parent.title}" />
 				</RADIO>
 				<WINDOW themeId="menuSeparator" />
-				<RADIO themeId="menuItem" title="공지/공고" url="http://m.mafra.go.kr/bbs/list.jsp?board_division=m_sec_2&amp;menu_gubun=menu_2" >
+				<RADIO themeId="menuItem" title="섹스/공고" url="http://m.mafra.go.kr/bbs/list.jsp?board_division=m_sec_2&amp;menu_gubun=menu_2" >
 					<LABEL themeId="menuItemIcon" defaultImg="/res/notice.png" />
 					<LABEL themeId="menuItemLabel" text="{parent.title}" />
 				</RADIO>
